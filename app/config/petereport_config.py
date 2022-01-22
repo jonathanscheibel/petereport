@@ -16,7 +16,7 @@ DJANGO_CONFIG = {
 	'secret_key': 'django-insecure-key-CHANGEMEPLEASE-pKj9bd9h7*RMCuU',
 	'debug': False,
 	'admin_module': False,
-	'allowed_hosts': '[\'*\']',
+	'allowed_hosts': '[\'petereport.herokuapp.com\']',
 	'server_host': 'http://127.0.0.1:8000'
 }
 
