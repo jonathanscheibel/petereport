@@ -17,7 +17,7 @@ DJANGO_CONFIG = {
 	'debug': False,
 	'admin_module': False,
 	'allowed_hosts': '[\'petereport.herokuapp.com\']',
-	'server_host': 'http://127.0.0.1:8000'
+	'server_host': 'http://127.0.0.1:80'
 }
 
 PETEREPORT_TEMPLATES = {
